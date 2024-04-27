@@ -11,7 +11,7 @@ function addVideo(video) {
     down.setAttribute("onclick", `window.location.href = '${downloadUrl}'`);
 
     newDiv.innerHTML = `
-        <span class="thumb"><span class="wpvid" class="center-poster"><video poster="https://pomf2.lain.la/f/b97nkclh.jpg" class="vidplay" autoplay="" name="media" id="videoPlayer" controlsList="nodownload">
+        <span class="thumb"><span class="wpvid" class="center-poster"><video poster="${thumbSrc}" class="vidplay" autoplay="" name="media" id="videoPlayer" controlsList="nodownload">
         <source id="sourcevideo" src="${vidSrc}" type="video/mp4">
             
     </video>
