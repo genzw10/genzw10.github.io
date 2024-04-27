@@ -46,7 +46,7 @@ volume_up
 
 // Mendapatkan data hanya untuk video ke-14
 // Buat salinan independen dari videoList menggunakan spread operator
-const videoToDisplay = [videoList[24]];
+const videoToDisplay = [videoList[25]];
 
 // Menambahkan hanya video ke-14
 videoToDisplay.forEach(video => {
