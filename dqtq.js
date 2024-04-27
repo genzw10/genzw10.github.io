@@ -226,6 +226,15 @@ let videoList = [
             videoUrl: "../../video/drajav-1/",
             vidSrc: "https://ds2play.com/e/oatnpsm4e90x",
             downloadUrl : "https://ds2play.com/d/oatnpsm4e90x"
+        },
+        {
+            id: "vdy-25",
+            thumbSrc:"https://i-milkshake.bunkr.ru/thumbs/kk-9--YpxABGXf.png",
+            judul: "Colmek Enak Mulus cantik #colmek #mikaze",
+            views: "18.9",
+            videoUrl: "../../video/mikaze-1/",
+            vidSrc: "https://milkshake.bunkr.ru/kk-9--YpxABGXf.mp4",
+            downloadUrl : "https://milkshake.bunkr.ru/kk-9--YpxABGXf.mp4"
         }
 ];
 
