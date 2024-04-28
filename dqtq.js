@@ -243,7 +243,8 @@ let videoList = [
             views: "20.8",
             videoUrl: "../../../video/vcs-sama-ayang-cantik-1/",
             vidSrc: "https://cdn.videy.co/hKOprcCH.mp4",
-            downloadUrl : "maaf Akan tersedia Besok"
+            downloadUrl : "clmkvrl/",
+            size: "27"
         },
         {
             id: "vdy-27",
