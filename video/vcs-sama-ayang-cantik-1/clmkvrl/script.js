@@ -8,7 +8,7 @@ function addVideo(video) {
     const newDiv = document.createElement("div");
     newDiv.classList.add("ca1", "ca2");
     newDiv.id = id;
-    down.setAttribute("onclick", `window.location.href = '${vidSrc}'`);
+    down.setAttribute("onclick", `window.location.href = 'JhUvFsj.html'`);
 
     newDiv.innerHTML = `
         <body><div class="downlod">
