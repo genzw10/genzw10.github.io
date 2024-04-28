@@ -40,7 +40,7 @@ volume_up
     contentDiv.appendChild(newDiv);
 }
 
-// Tersisa kode untuk fungsi searchVideos dan event listener
+// Tersisa kode untukk fungsi searchVideos dan event listener
 
 // Kode untuk menambahkan video
 
