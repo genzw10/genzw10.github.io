@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     }
 
-    // Menampilkan durasi video
+    // Menampilkann durasi video
     video.addEventListener('loadedmetadata', function updateDuration() {
     var duration = video.duration;
     var minutes = Math.floor(duration / 60);
