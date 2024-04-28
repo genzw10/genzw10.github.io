@@ -254,7 +254,7 @@ let videoList = [
             videoUrl: "../../../video/vcs-sama-ayang-cantik-2/",
             vidSrc: "https://cdn.videy.co/uBvpv95M.mp4",
             downloadUrl : "clmkvrl/",
-            size: "26
+            size: "26"
         }
 ];
 
