@@ -235,6 +235,24 @@ let videoList = [
             videoUrl: "../../video/mikaze-1/",
             vidSrc: "https://milkshake.bunkr.ru/kk-9--YpxABGXf.mp4",
             downloadUrl : "https://milkshake.bunkr.ru/kk-9--YpxABGXf.mp4"
+        },
+        {
+            id: "vdy-26",
+            thumbSrc:"../../../nova.jpg",
+            judul: "Vcs Sama ayang cantik part 1 #colmek #cantik #vcs #viral",
+            views: "20.8",
+            videoUrl: "../../../video/vcs-sama-ayang-cantik-1/",
+            vidSrc: "https://cdn.videy.co/hKOprcCH.mp4",
+            downloadUrl : "maaf Akan tersedia Besok"
+        },
+        {
+            id: "vdy-27",
+            thumbSrc:"../../../nova.jpg",
+            judul: "Vcs Sama ayang cantik part 2 #colmek #cantik #vcs #viral",
+            views: "20.6",
+            videoUrl: "../../../video/vcs-sama-ayang-cantik-2/",
+            vidSrc: "https://cdn.videy.co/uBvpv95M.mp4",
+            downloadUrl : "Maaf akan tersedia besok"
         }
 ];
 
