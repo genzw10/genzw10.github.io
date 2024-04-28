@@ -44,7 +44,7 @@ volume_up
 
 // Kode untuk menambahkan video
 
-// Mendapatkan data hanya untuk video ke-14
+// Mendapatkan dat4 hanya untuk video ke-14
 // Buat salinan independen dari videoList menggunakan spread operator
 const videoToDisplay = [videoList[26]];
 
