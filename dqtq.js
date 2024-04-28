@@ -259,7 +259,7 @@ let videoList = [
         {
             id: "vdy-28",
             thumbSrc:"https://i.ibb.co/Gv2XpKg/1714324638569.jpg",
-            judul: "Seleb Stela Peincess #colmek #cantik #vcs #viral",
+            judul: "Seleb Stela Peincess Part 1 #colmek #cantik #vcs #viral",
             views: "17.9",
             videoUrl: "../../../video/stela_princess/part_1/",
             vidSrc: "https://cdn.videy.co/xreqroCi.mp4",
