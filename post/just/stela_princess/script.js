@@ -13,7 +13,7 @@ checkbox.addEventListener('change', function() {
 
 // Event listener untuk menu item mn1
 document.getElementById('mn1').onclick = function() {
-    window.location.href = "../../";
+    window.location.href = "../../page_1/";
 };
 
 // Event listener untuk menu item mn2
