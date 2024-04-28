@@ -37,7 +37,7 @@
  
  
  
- import videoList from '../../../dqtq.js';
+ import videoList from '../../../../dqtq.js';
 
 function addVideo(video) {
     const { id, vidSrc, judul, views, downloadUrl, thumbSrc, size } = video;
@@ -90,7 +90,7 @@ function addVideo(video) {
 
 // Mendapatkan data hanya untuk video ke-14
 // Buat salinan independen dari videoList menggunakan spread operator
-const videoToDisplay = [videoList[26]];
+const videoToDisplay = [videoList[28]];
 
 // Menambahkan hanya video ke-14
 videoToDisplay.forEach(video => {
