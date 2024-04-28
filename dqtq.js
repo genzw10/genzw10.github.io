@@ -255,6 +255,16 @@ let videoList = [
             vidSrc: "https://cdn.videy.co/uBvpv95M.mp4",
             downloadUrl : "clmkvrl/",
             size: "26"
+        },
+        {
+            id: "vdy-28",
+            thumbSrc:"https://i.ibb.co/Gv2XpKg/1714324638569.jpg",
+            judul: "Seleb Stela Peincess #colmek #cantik #vcs #viral",
+            views: "17.9",
+            videoUrl: "../../../video/stela_princess/part_1/",
+            vidSrc: "https://cdn.videy.co/xreqroCi.mp4",
+            downloadUrl : "spp1/",
+            size: "20"
         }
 ];
 
