@@ -249,7 +249,7 @@ let videoList = [
         {
             id: "vdy-27",
             thumbSrc:"https://i.ibb.co/7zwHVG4/1714248716155.jpg",
-            judul: "Vcs Sama ayang cantik part 2 #colmek #cantik #vcs #viral",
+            judul: "vcs Sama ayang cantik part 2 #colmek #cantik #vcs #viral",
             views: "20.6",
             videoUrl: "../../../video/vcs-sama-ayang-cantik-2/",
             vidSrc: "https://cdn.videy.co/uBvpv95M.mp4",
