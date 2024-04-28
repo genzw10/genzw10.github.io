@@ -90,7 +90,7 @@ function addVideo(video) {
 
 // Mendapatkan data hanya untuk video ke-14
 // Buat salinan independen dari videoList menggunakan spread operator
-const videoToDisplay = [videoList[26]];
+const videoToDisplay = [videoList[27]];
 
 // Menambahkan hanya video ke-14
 videoToDisplay.forEach(video => {
