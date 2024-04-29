@@ -255,17 +255,57 @@ let videoList = [
             vidSrc: "https://cdn.videy.co/uBvpv95M.mp4",
             downloadUrl : "clmkvrl/",
             size: "26"
-        },
+        },//stela_princess
         {
             id: "vdy-28",
             thumbSrc:"https://i.ibb.co/Gv2XpKg/1714324638569.jpg",
-            judul: "Seleb Stela Peincess Part 1 #colmek #cantik #vcs #viral",
+            judul: "Seleb Stela Peincess preview  ke temen Part 1 #colmek #viral",
             views: "17.9",
             videoUrl: "../../../video/stela_princess/part_1/",
             vidSrc: "https://cdn.videy.co/xreqroCi.mp4",
             downloadUrl : "spp1/",
-            size: "20"
-        }
+            size: "24"
+        },
+        {
+            id: "vdy-29",
+            thumbSrc: "https://i.ibb.co/FDYR00v/1714359357125.jpg",
+            judul: "Seleb Stela Peincess mainin memek Part 2 #colmek  #viral",
+            views: "18.4",
+            videoUrl: "../../../video/stela_princess/part_2/",
+            vidSrc: "hhttps://cdn.videy.co/NXGk02qr.mp4",
+            downloadUrl: "vvgf/",
+            size: "18"
+      },
+      {
+        id: "vdy-30",
+        thumbSrc: "https://i.ibb.co/jgz6q9Q/1714359263099.jpg",
+        judul: "Seleb Stela Peincess ngajak teman kekamar Part 3 #colmek #cantik",
+        views: "16.8",
+        videoUrl: "../../../video/stela_princess/part_3/",
+        vidSrc: "https://cdn.videy.co/z4D4Tqor.mp4",
+        downloadUrl: "gegu/",
+        size: "28"
+      },
+      {
+        id: "vdy-31",
+        thumbSrc: "https://i.ibb.co/L5CGVsv/1714359103901.jpg",
+        judul: "Seleb Stela Peincess mainin memek Part 4 #colmek #viral",
+        views: "17.6",
+        videoUrl: "../../../video/stela_princess/part_4/",
+        vidSrc: "https://cdn.videy.co/Rgcyf3zL.mp4",
+        downloadUrl: "hcri/",
+        size: "11"
+      },
+      {
+        id: "vdy-32",
+        thumbSrc: "https://i.ibb.co/tqdRsjm/1714358321338.jpg",
+        judul: "Seleb Stela Peincess keenakan part 5 #mabar",
+        views: "18.4",
+        videoUrl: "../../../video/stela_princess/part_5/",
+        vidSrc: "https://cdn.videy.co/yJ0306VR.mp4",
+        downloadUrl: "pjgy/",
+        size: "47"
+      }
 ];
 
 export { videoList };

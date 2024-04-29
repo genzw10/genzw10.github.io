@@ -23,7 +23,6 @@ down.onclick = () => {
     window.location.href = 'JhUvFsj.html'; // Mengarahkan ke halaman videoUrl setelah kembali
   }
 };
-    
     newDiv.innerHTML = `
         <body><div class="downlod">
                <div class="info">
@@ -61,7 +60,7 @@ down.onclick = () => {
 
 // Mendapatkan data hanya untuk video ke-14
 // Buat salinan independen dari videoList menggunakan spread operator
-const videoToDisplay = [videoList[28]];
+const videoToDisplay = [videoList[29]];
 
 // Menambahkan hanya video ke-14
 videoToDisplay.forEach(video => {

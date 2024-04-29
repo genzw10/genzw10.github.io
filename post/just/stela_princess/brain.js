@@ -68,7 +68,7 @@ document.getElementById("search-input").addEventListener("keyup", function(event
 
 // Tersisa kode untuk fungsi searchVideos dan event listener
 // Kode untuk menambahkan video
-const videoToDisplay = videoList.slice(28, 29);
+const videoToDisplay = videoList.slice(28, 33);
 
 videoToDisplay.forEach(video => {
     addVideo(video);
