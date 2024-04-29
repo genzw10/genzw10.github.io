@@ -1,5 +1,5 @@
 import videoList from '../../../dqtq.js';
-
+import directlinks from '../../../wp-content/js/monetag.js';
 function addVideo(video) {
     const { id, thumbSrc, judul, views, videoUrl } = video;
     const contentDiv = document.getElementById("content");
@@ -7,8 +7,21 @@ function addVideo(video) {
     const newDiv = document.createElement("div");
     newDiv.classList.add("ca1", "ca2");
     newDiv.id = id;
-    newDiv.onclick = () => { window.location.href = videoUrl; };
+    let isFirstClick = true;
 
+// Fungsi untuk memilih link secara acak dari array
+function getRandomLinks() {
+  return directlinks[Math.floor(Math.random() * directlinks.length)];
+}
+
+newDiv.onclick = () => {
+  if (isFirstClick) {
+    window.location.href = getRandomLinks(); // Mengarahkan ke salah satu directlink secara acak
+    isFirstClick = false;
+  } else {
+    window.location.href = videoUrl; // Mengarahkan ke halaman videoUrl setelah kembali
+  }
+};
     newDiv.innerHTML = `
         <span class="thumb"><span class="center-poster"><img id="thumb_video_${id}" src="${thumbSrc}" alt=""></span>
         <div class="tittle-video">

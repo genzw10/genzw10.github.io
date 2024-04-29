@@ -7,7 +7,7 @@ function addVideo(video) {
     const newDiv = document.createElement("div");
     newDiv.classList.add("ca1", "ca2");
     newDiv.id = id;
-    newDiv.onclick = () => { window.location.href = videoUrl; };
+    let isFirstClick = true;newDiv.onclick = () => { if (isFirstClick) { window.location.href = "link_directlink_iklan"; isFirstClick = false; } else { window.location.href = videoUrl; } };
 
     newDiv.innerHTML = `
         <span class="thumb"><span class="center-poster"><img id="thumb_video_${id}" src="${thumbSrc}" alt=""></span>
