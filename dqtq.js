@@ -323,7 +323,7 @@ let videoList = [
   views: "16.1",
   videoUrl: "../../../video/amelia_colmek/part_2/",
   vidSrc: "https://cdn.videy.co/1T2ypFrw.mp4",
-  downloadUrl: "amrd/",
+  downloadUrl: "spp1/",
   size: "46"
 }
 ];
