@@ -268,14 +268,14 @@ let videoList = [
         },
         {
             id: "vdy-29",
-            thumbSrc: "https://imgpx.com/SLgLl5ukLhYx.jpg",
+            thumbSrc:"https://imgpx.com/SLgLl5ukLhYx.jpg",
             judul: "Seleb Stela Peincess mainin memek Part 2 #colmek  #viral",
-            views: "18.4",
+            views: "19.4",
             videoUrl: "../../../video/stela_princess/part_2/",
-            vidSrc: "hhttps://cdn.videy.co/NXGk02qr.mp4",
-            downloadUrl: "vvgf/",
+            vidSrc: "https://cdn.videy.co/NXGk02qr.mp4",
+            downloadUrl : "vvgf/",
             size: "18"
-      },
+        },
       {
         id: "vdy-30",
         thumbSrc: "https://imgpx.com/VjYgQnBnRaog.jpg",
@@ -306,16 +306,16 @@ let videoList = [
         downloadUrl: "pjgy/",
         size: "47"
       },
-        {
-  id: "vdy-33",
-  thumbSrc: "https://i.ibb.co/VBS5DwJ/1714652785834.jpg",
-  judul: "Colmek Amelia Abg Cantik Mulus Part 1 #colmek #amel",
-  views: "16.2",
-  videoUrl: "../../../video/amelia_colmek/part_1/",
-  vidSrc: "https://cdn.videy.co/t6ON8Akn.mp4",
-  downloadUrl: "ftrd/",
-  size: "53"
-},
+      {
+        id: "vdy-33",
+        thumbSrc: "https://i.ibb.co/VBS5DwJ/1714652785834.jpg",
+        judul: "Colmek Amelia Abg Cantik Mulus Part 1 #colmek #amel",
+        views: "16.2",
+        videoUrl: "../../../video/amelia_colmek/part_1/",
+        vidSrc: "https://cdn.videy.co/t6ON8Akn.mp4",
+        downloadUrl: "ftrd/",
+        size: "53"
+      },
 {
   id: "vdy-34",
   thumbSrc: "https://i.ibb.co/Ptx68ff/1714652800970.jpg",
