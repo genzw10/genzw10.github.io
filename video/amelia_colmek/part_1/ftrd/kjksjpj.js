@@ -89,7 +89,7 @@ function addVideo(video) {
 // Kode untuk menambahkan video
 
 // Mendapatkan data hjanya untuk video ke-14
-// Buat salinan independen dari videoList menggunakan spread operator
+// Buat salinan indgependen dari videoList menggunakan spread operator
 const videoToDisplay = [videoList[33]];
 
 // Menambahkan hanya video ke-14
