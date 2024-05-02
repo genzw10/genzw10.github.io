@@ -309,7 +309,7 @@ let videoList = [
         {
   id: "vdy-33",
   thumbSrc: "https://i.ibb.co/VBS5DwJ/1714652785834.jpg",
-  judul: "Colmek Amelia Abg Cantik Mulus #colmek #amel",
+  judul: "Colmek Amelia Abg Cantik Mulus Part 1 #colmek #amel",
   views: "16.2",
   videoUrl: "../../../video/amelia_colmek/part_1/",
   vidSrc: "https://cdn.videy.co/t6ON8Akn.mp4",
