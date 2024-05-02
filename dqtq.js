@@ -305,7 +305,27 @@ let videoList = [
         vidSrc: "https://cdn.videy.co/yJ0306VR.mp4",
         downloadUrl: "pjgy/",
         size: "47"
-      }
+      },
+        {
+  id: "vdy-33",
+  thumbSrc: "https://i.ibb.co/RHwMZp1/Gen-ZW10-Channel-16.jpg",
+  judul: "Colmek Amelia Abg Cantik Mulus #colmek #amel",
+  views: "16.2",
+  videoUrl: "../../../video/amelia_colmek/part_1/",
+  vidSrc: "https://cdn.videy.co/t6ON8Akn.mp4",
+  downloadUrl: "pjgy/",
+  size: "53"
+},
+{
+  id: "vdy-34",
+  thumbSrc: "https://i.ibb.co/rb3Ldpj/Gen-ZW10-Channel-8.jpg",
+  judul: "Colmek Amelia Abg Cantik Mulus Part 2 #colmek #amel",
+  views: "16.1",
+  videoUrl: "../../../video/amelia_colmek/part_2/",
+  vidSrc: "https://cdn.videy.co/1T2ypFrw.mp4",
+  downloadUrl: "pjgy/",
+  size: "46"
+}
 ];
 
 export { videoList };
