@@ -298,7 +298,7 @@ let videoList = [
       },
       {
         id: "vdy-32",
-        thumbSrc: "https://i.ibb.co/tqdRsjm/1714358321338.jpg",
+        thumbSrc: "https://imgpx.com/tBa7ICORHzC6.jpg",
         judul: "Seleb Stela Peincess keenakan part 5 #mabar",
         views: "18.4",
         videoUrl: "../../../video/stela_princess/part_5/",
