@@ -313,7 +313,7 @@ let videoList = [
   views: "16.2",
   videoUrl: "../../../video/amelia_colmek/part_1/",
   vidSrc: "https://cdn.videy.co/t6ON8Akn.mp4",
-  downloadUrl: "pjgy/",
+  downloadUrl: "ftrd/",
   size: "53"
 },
 {
@@ -323,7 +323,7 @@ let videoList = [
   views: "16.1",
   videoUrl: "../../../video/amelia_colmek/part_2/",
   vidSrc: "https://cdn.videy.co/1T2ypFrw.mp4",
-  downloadUrl: "pjgy/",
+  downloadUrl: "amrd/",
   size: "46"
 }
 ];
