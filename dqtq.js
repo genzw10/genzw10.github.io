@@ -268,7 +268,7 @@ let videoList = [
         },
         {
             id: "vdy-29",
-            thumbSrc: "https://i.ibb.co/FDYR00v/1714359357125.jpg",
+            thumbSrc: "https://imgpx.com/0tcACgPkMpCa.jpg",
             judul: "Seleb Stela Peincess mainin memek Part 2 #colmek  #viral",
             views: "18.4",
             videoUrl: "../../../video/stela_princess/part_2/",
@@ -288,7 +288,7 @@ let videoList = [
       },
       {
         id: "vdy-31",
-        thumbSrc: "https://i.ibb.co/L5CGVsv/1714359103901.jpg",
+        thumbSrc: "https://imgpx.com/0tcACgPkMpCa.jpg",
         judul: "Seleb Stela Peincess mainin memek Part 4 #colmek #viral",
         views: "17.6",
         videoUrl: "../../../video/stela_princess/part_4/",
