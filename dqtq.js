@@ -238,7 +238,7 @@ let videoList = [
         },
         {
             id: "vdy-26",
-            thumbSrc:"https://i.ibb.co/0Zvhk1W/1714248699128.jpg",
+            thumbSrc:"https://i.ibb.co/L5CGVsv/1714359103901.jpg",
             judul: "Vcs Sama ayang cantik part 1 #colmek #cantik #vcs #viral",
             views: "20.8",
             videoUrl: "../../../video/vcs-sama-ayang-cantik-1/",
@@ -258,7 +258,7 @@ let videoList = [
         },//stela_princess
         {
             id: "vdy-28",
-            thumbSrc:"https://i.ibb.co/Gv2XpKg/1714324638569.jpg",
+            thumbSrc:"https://imgpx.com/2zo9F4hNvIw5.jpg",
             judul: "Seleb Stela Peincess preview  ke temen Part 1 #colmek #viral",
             views: "17.9",
             videoUrl: "../../../video/stela_princess/part_1/",
@@ -268,7 +268,7 @@ let videoList = [
         },
         {
             id: "vdy-29",
-            thumbSrc: "https://imgpx.com/0tcACgPkMpCa.jpg",
+            thumbSrc: "https://imgpx.com/yoQmM2pvZ6iT.jpg",
             judul: "Seleb Stela Peincess mainin memek Part 2 #colmek  #viral",
             views: "18.4",
             videoUrl: "../../../video/stela_princess/part_2/",
@@ -278,7 +278,7 @@ let videoList = [
       },
       {
         id: "vdy-30",
-        thumbSrc: "https://i.ibb.co/jgz6q9Q/1714359263099.jpg",
+        thumbSrc: "https://imgpx.com/VjYgQnBnRaog.jpg",
         judul: "Seleb Stela Peincess ngajak teman kekamar Part 3 #colmek #cantik",
         views: "16.8",
         videoUrl: "../../../video/stela_princess/part_3/",
@@ -288,7 +288,7 @@ let videoList = [
       },
       {
         id: "vdy-31",
-        thumbSrc: "https://imgpx.com/0tcACgPkMpCa.jpg",
+        thumbSrc: "https://imgpx.com/9n5ROXGIBB9D.jpg",
         judul: "Seleb Stela Peincess mainin memek Part 4 #colmek #viral",
         views: "17.6",
         videoUrl: "../../../video/stela_princess/part_4/",
