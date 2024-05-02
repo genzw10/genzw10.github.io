@@ -268,7 +268,7 @@ let videoList = [
         },
         {
             id: "vdy-29",
-            thumbSrc: "https://imgpx.com/yoQmM2pvZ6iT.jpg",
+            thumbSrc: "https://imgpx.com/SLgLl5ukLhYx.jpg",
             judul: "Seleb Stela Peincess mainin memek Part 2 #colmek  #viral",
             views: "18.4",
             videoUrl: "../../../video/stela_princess/part_2/",
