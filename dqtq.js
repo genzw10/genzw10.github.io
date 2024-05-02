@@ -308,7 +308,7 @@ let videoList = [
       },
         {
   id: "vdy-33",
-  thumbSrc: "https://i.ibb.co/RHwMZp1/Gen-ZW10-Channel-16.jpg",
+  thumbSrc: "https://i.ibb.co/VBS5DwJ/1714652785834.jpg",
   judul: "Colmek Amelia Abg Cantik Mulus #colmek #amel",
   views: "16.2",
   videoUrl: "../../../video/amelia_colmek/part_1/",
@@ -318,7 +318,7 @@ let videoList = [
 },
 {
   id: "vdy-34",
-  thumbSrc: "https://i.ibb.co/rb3Ldpj/Gen-ZW10-Channel-8.jpg",
+  thumbSrc: "https://i.ibb.co/Ptx68ff/1714652800970.jpg",
   judul: "Colmek Amelia Abg Cantik Mulus Part 2 #colmek #amel",
   views: "16.1",
   videoUrl: "../../../video/amelia_colmek/part_2/",
