@@ -84,7 +84,7 @@ function addVideo(video) {
     contentDiv.appendChild(newDiv);
 }
 
-// Tersisa kode untuk fungsi searchVideos dan event listener
+// Tersisa kode untuk kfungsi searchVideos dan event listener
 
 // Kode untuk menambahkan video
 
