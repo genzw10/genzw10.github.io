@@ -51,11 +51,11 @@ const body = document.body
   }
 }
 
-document.getElementById("prev").addEventListener("click", function() {
+document.getElementById("AllAlbums").addEventListener("click", function() {
     window.location.href = "../../page_1/";
 });
 document.getElementById("next").addEventListener("click", function() {
-    window.location.href = "../../page_2/";
+    window.location.href = "../stela_princes/";
 });;
 
 // file: app.js
