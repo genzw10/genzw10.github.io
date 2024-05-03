@@ -51,11 +51,11 @@ const body = document.body
   }
 }
 
-document.getElementById("prev").addEventListener("click", function() {
-    window.location.href = "../../page_1/";
+document.getElementById("Sebelumnya").addEventListener("click", function() {
+    window.location.href = "../stela_princess/";
 });
-document.getElementById("next").addEventListener("click", function() {
-    window.location.href = "../../page_2/";
+document.getElementById("Selanjutnya").addEventListener("click", function() {
+    window.location.href = "../../page_1/";
 });;
 
 // file: app.js
