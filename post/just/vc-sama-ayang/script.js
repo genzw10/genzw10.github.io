@@ -55,7 +55,7 @@ document.getElementById("AllAlbums").addEventListener("click", function() {
     window.location.href = "../../page_1/";
 });
 document.getElementById("next").addEventListener("click", function() {
-    window.location.href = "../stela_princes/";
+    window.location.href = "../stela_princess/";
 });;
 
 // file: app.js
