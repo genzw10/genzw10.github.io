@@ -51,11 +51,11 @@ const body = document.body
   }
 }
 
-document.getElementById("prev").addEventListener("click", function() {
-    window.location.href = "../../page_1/";
+document.getElementById("sebelumnya").addEventListener("click", function() {
+    window.location.href = "../vc_sama_ayang/";
 });
-document.getElementById("next").addEventListener("click", function() {
-    window.location.href = "../../page_2/";
+document.getElementById("lanjutan").addEventListener("click", function() {
+    window.location.href = "../ameli_colmek/";
 });;
 
 // file: app.js
