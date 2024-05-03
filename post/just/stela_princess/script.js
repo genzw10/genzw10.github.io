@@ -51,10 +51,10 @@ const body = document.body
   }
 }
 
-document.getElementById("sebelumnya").addEventListener("click", function() {
+document.getElementById("prev").addEventListener("click", function() {
     window.location.href = "../vc_sama_ayang/";
 });
-document.getElementById("lanjutan").addEventListener("click", function() {
+document.getElementById("next").addEventListener("click", function() {
     window.location.href = "../ameli_colmek/";
 });;
 
