@@ -51,10 +51,10 @@ const body = document.body
   }
 }
 
-document.getElementById("Sebelumnya").addEventListener("click", function() {
+document.getElementById("prev").addEventListener("click", function() {
     window.location.href = "../stela_princess/";
 });
-document.getElementById("Selanjutnya").addEventListener("click", function() {
+document.getElementById("next").addEventListener("click", function() {
     window.location.href = "../../page_1/";
 });;
 
