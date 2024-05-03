@@ -55,13 +55,14 @@ document.getElementById("sebelum").addEventListener("click", function() {
     window.location.href = "../stela_princess/";
 });
 document.getElementById("berikut").addEventListener("click", function() {
-    window.location.href = "../../page_1/";
-});;
+    window.location.href = "../../ocil/";
+});
+
 document.getElementById("sebelum1").addEventListener("click", function() {
   window.location.href = "../stela_princess/";
 });
 document.getElementById("berikut1").addEventListener("click", function() {
-      window.location.href = "../../page_1/";
+      window.location.href = "../../ocil/";
     }
 );
 

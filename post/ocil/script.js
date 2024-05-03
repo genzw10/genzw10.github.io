@@ -52,10 +52,17 @@ const body = document.body
 }
 
 document.getElementById("prev").addEventListener("click", function() {
-    window.location.href = "../page_1/";
+    window.location.href = "../just/amelia_colmek";
 });
 document.getElementById("next").addEventListener("click", function() {
-    window.location.href = "../page_2/";
+    window.location.href = "../page_1/";
+});;
+
+document.getElementById("prev1").addEventListener("click", function() {
+    window.location.href = "../just/amelia_colmek";
+});
+document.getElementById("next1").addEventListener("click", function() {
+    window.location.href = "../page_1";
 });;
 
 // file: app.js
