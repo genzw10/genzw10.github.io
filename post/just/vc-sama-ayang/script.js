@@ -51,7 +51,7 @@ const body = document.body
   }
 }
 
-document.getElementById("AllAlbums").addEventListener("click", function() {
+document.getElementById("prev").addEventListener("click", function() {
     window.location.href = "../../page_1/";
 });
 document.getElementById("next").addEventListener("click", function() {
