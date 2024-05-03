@@ -52,10 +52,18 @@ const body = document.body
 }
 
 document.getElementById("prev").addEventListener("click", function() {
-    window.location.href = "../vc_sama_ayang/";
+    window.location.href = "../vc-sama-ayang/";
 });
 document.getElementById("next").addEventListener("click", function() {
-    window.location.href = "../ameli_colmek/";
-});;
+    window.location.href = "../amelia_colmek/";
+});
+
+
+document.getElementById("prev1").addEventListener("click", function() {
+  window.location.href = "../vc-sama-ayang/";
+});
+document.getElementById("next1").addEventListener("click", function() {
+  window.location.href = "../amelia_colmek/";
+});
 
 // file: app.js

@@ -57,6 +57,12 @@ document.getElementById("prev").addEventListener("click", function() {
 document.getElementById("next").addEventListener("click", function() {
     window.location.href = "../stela_princess/";
 });;
+document.getElementById("prev1").addEventListener("click", function() {
+  window.location.href = "../../page_1/";
+});
+document.getElementById("next1").addEventListener("click", function() {
+  window.location.href = "../stela_princess/";
+});;
 
 // file: app.js
 
